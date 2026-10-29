@@ -180,6 +180,11 @@ a cheaper ARM cloud instance, using the docker image is the easiest way to do it
 
 For managed SQLPage hosting, use [DataPage](https://datapage.app). To run SQLPage yourself on a VPS, [Hostinger](https://www.hostg.xyz/aff_c?offer_id=815&aff_id=243720&url_id=6808) is another option: they partner with us, and let you get 10% off using the code `SQLPAGE10` on any annual+ plan.
 
+You can also deploy SQLPage with one click:
+
+<a href="https://repocloud.io/details/SQLPage/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/sqlpage"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ### On macOS, with Homebrew
 
 [SQLPage's Homebrew package](https://formulae.brew.sh/formula/sqlpage) is the recommended way to install SQLPage on macOS, including Intel Macs.
